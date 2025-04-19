@@ -1,5 +1,5 @@
-**Conversation Visualizer:** https://prodigal.vercel.app/   
-**Profanity and Compliance Violation App:** https://profanity.streamlit.app/
+**Conversation Visualizer:** https://prodigal.vercel.app/  
+**Profanity and Compliance Violation App:** https://profanity.streamlit.app/ (Not working, please use local version)
 
 ## Steps to setup streamlit app
 
@@ -22,6 +22,13 @@ pip install -r requirements.txt
 ```
 
 4. Add .env file with GEMINI_KEY
+
+Get Gemini API key from https://aistudio.google.com/app/apikey/ and add it to `.env` file in the root directory.
+The file should look like this:
+
+```bash
+GEMINI_KEY=your_gemini_key
+```
 
 5. Run streamlit app
 
