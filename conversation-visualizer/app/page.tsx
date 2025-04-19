@@ -96,10 +96,6 @@ export default function Home() {
   return (
     <main className="container mx-auto py-8 px-4">
       <h1 className="text-3xl font-bold mb-6">Conversation Visualizer</h1>
-      <p className="mb-6 text-muted-foreground">
-        Visualize silence and overlap in conversations. Agent speech is shown in yellow, Customer in green, Silence in
-        gray, and Overlap in red.
-      </p>
 
       <Card className="mb-8">
         <CardHeader>
