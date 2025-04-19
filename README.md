@@ -1,4 +1,4 @@
-**Conversation Visualizer:** https://prodigal.vercel.app/
+**Conversation Visualizer:** https://prodigal.vercel.app/   
 **Profanity and Compliance Violation App:** https://profanity.streamlit.app/
 
 ## Steps to setup streamlit app
